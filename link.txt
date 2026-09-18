@@ -1,1 +1,5 @@
-https://github.com/AnasMalikDev/AaAa/releases/download/Cash/ShamCash.ipa
+{
+  "version": "1.0.0",
+  "url": "https://github.com/AnasMalikDev/AaAa/releases/download/Cash/ShamCash.ipa",
+  "details": "• ما الجديد في التحديث ؟\r\nإضافة قسم تنزيلات لتنزيل نسخ الواتساب وتحديثها\r\nإضافة خيار لحفظ الوسائط في خانة واتساب الرسمي\r\nإضافة 3 خيارات جديدة في قسم المميزات الإضافية\r\nإصلاح خانة واتساب 2 الخاصة بأجهزة LT وهواوي"
+}
